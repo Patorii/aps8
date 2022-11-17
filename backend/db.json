@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "nome": "Patrick Rossetto Ribeiro",
+      "email": "email@email.com",
+      "login": "Patrick",
+      "senha": "123",
+      "cpf": "12345678910",
+      "id": 0
+    },
+    {
+      "nome": "teste ola",
+      "email": "meuemail@hotmail.com",
+      "login": "Teste",
+      "senha": "123",
+      "cpf": "111.111.111-11",
+      "id": 1
+    }
+  ],
+  "horta": [
+    {
+      "user_id": "0",
+      "nome": "JARDIM DO ROCK",
+      "descricao": "Localizada no terraço da Galeria do Rock, na região da República, o local oferece cursos e oficinas para quem almeja uma vida mais saudável e quer plantar seus próprios alimentos. A horta se mantém por meio de vendas das hortaliças a bares e restaurantes do entorno. A visitação requer um guia e para ser voluntário é preciso fazer parte dos cursos do Instituto Cultural Galeria do Rock.",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "República",
+      "endereco": "Avenida São João",
+      "numero": "439",
+      "email": "meuemail@hotmail.com",
+      "telefone": "(11)3761549_",
+      "id": 3
+    },
+    {
+      "user_id": "0",
+      "nome": "HORTA DO CICLISTA",
+      "descricao": "Em uma das avenidas mais movimentadas de São Paulo, a Paulista, próximo ao cruzamento com a Consolação, o espaço verde existe desde 2012 com o intuito de cultivar alimentos. Por estar situada numa área pequena, as espécies plantadas são de pequeno e médio porte. Entre as plantações encontram-se por lá: girassóis, alecrim, melissa, capim santo, cebolinha, alface e outras variedades. Os mutirões para cuidar da horta acontecem todo primeiro domingo do mês. Quem quiser colaborar deve levar composto orgânico, folhas secas, pás, enxadas e mudas de pequeno e médio porte para plantio.",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Bela Vista",
+      "endereco": "Avenida Paulista",
+      "numero": "2439",
+      "email": "horta_ciclista@gmail.com",
+      "telefone": "(11)3254785_",
+      "id": 5
+    },
+    {
+      "user_id": "1",
+      "nome": "Horta teste",
+      "descricao": "São 5 pessoas atualmente, plantamos cenoura",
+      "estado": "SP",
+      "cidade": "São Paulo",
+      "bairro": "Butanta",
+      "endereco": "Rua aqui do lado",
+      "numero": "123",
+      "email": "meuemail@hotmail.com",
+      "telefone": "(11)995841234",
+      "id": 6
+    }
+  ]
+}
